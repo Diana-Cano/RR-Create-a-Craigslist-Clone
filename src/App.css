@@ -48,3 +48,11 @@ img {
   grid-area: sidebar;
   border: 1px solid black;
 }
+
+.item{
+  width:310px;
+  border: 1px solid grey;
+  border-radius: 5px;
+  margin: 5px;
+  padding: 20px;
+}
